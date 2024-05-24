@@ -1,8 +1,8 @@
-This is a toy demo to play with langchain.
+A toy demo to play with **langchain**.
 
-It can generate and execute commands (in docker container for safety) from user's natural language.
+It can generate and execute commands (in **docker** container for safety) from user's natural language.
 
-And it rely on ollama to chat with locally deployed LLM (qwen-14b).
+And it rely on **ollama** to chat with locally deployed LLM (**qwen-14b**).
 
 ![demo](./demo.png)
 
